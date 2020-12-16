@@ -1,3 +1,12 @@
+## React Terminal
+
+Implemented a search <repo name> command that will fetch the results from GitHub's GraphQL search query and display the repo names and repo url (1 line per repo details) on Terminal Emulator
+  
+ # Additional 
+ 
+Implemented a search <repo name> <number> command that will fetch the results from GitHub's GraphQL search query and display the repo names and repo url (1 line per repo details) number what ever we provide will give list of query how many is needed  on Terminal Emulator
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
